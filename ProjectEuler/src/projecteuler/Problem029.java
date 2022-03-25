@@ -15,5 +15,4 @@ public class Problem029 {
 		}
 		System.out.println(set.size());
 	}
-
 }

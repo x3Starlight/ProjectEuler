@@ -267,5 +267,4 @@ public class Functions {
 		}
 		return b.divide(new BigInteger("100"));
 	}
-	
 }

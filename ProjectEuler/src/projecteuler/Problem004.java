@@ -1,7 +1,6 @@
 package projecteuler;
 
 public class Problem004 {
-
 	
 	public static void main(String args[]) {
 		int ans = 0;

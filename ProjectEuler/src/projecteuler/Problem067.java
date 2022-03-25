@@ -1,6 +1,5 @@
 package projecteuler;
 
-
 import java.util.Arrays;
 
 public class Problem067 {

@@ -10,5 +10,4 @@ public class Problem028 {
 		}
 		System.out.println(sum);
 	}
-
 }

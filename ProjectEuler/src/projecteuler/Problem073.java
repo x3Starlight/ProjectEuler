@@ -1,6 +1,5 @@
 package projecteuler;
 
-
 public class Problem073 {
 
 	public static void main(String[] args) {

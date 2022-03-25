@@ -12,5 +12,4 @@ public class Problem021 {
 		}
 		System.out.println(ans);
 	}
-
 }

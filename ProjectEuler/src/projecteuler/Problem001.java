@@ -11,5 +11,4 @@ public class Problem001 {
 		}
 		System.out.println(ans);
 	}
-
 }

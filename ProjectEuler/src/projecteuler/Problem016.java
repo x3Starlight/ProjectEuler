@@ -11,5 +11,4 @@ public class Problem016 {
 		ans = Functions.getSumOfDigits(digits);
 		System.out.println(ans);
 	}
-
 }

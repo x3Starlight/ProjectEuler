@@ -17,5 +17,4 @@ public class Problem036 {
 		}
 		System.out.println(ans);
 	}
-
 }

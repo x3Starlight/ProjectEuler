@@ -1,6 +1,5 @@
 package projecteuler;
 
-
 import java.util.function.IntFunction;
 
 public class Problem040 {

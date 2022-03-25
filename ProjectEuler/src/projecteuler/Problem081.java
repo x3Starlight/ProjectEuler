@@ -1,6 +1,5 @@
 package projecteuler;
 
-
 import java.util.Arrays;
 
 public class Problem081 {
@@ -22,8 +21,6 @@ public class Problem081 {
 				arr[i][j] += Math.min(arr[i][j-1], arr[i-1][j]);
 			}
 		}
-		System.out.println(arr[dim-1][dim-1]);
-		
-		
+		System.out.println(arr[dim-1][dim-1]);		
 	}
 }

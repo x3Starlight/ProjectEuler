@@ -29,5 +29,4 @@ public class Problem032 {
 		}
 		System.out.println(ans);
 	}
-
 }

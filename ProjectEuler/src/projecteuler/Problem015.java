@@ -17,5 +17,4 @@ public class Problem015 {
 		}
 		System.out.println(arr[size-1][size-1]);
 	}
-
 }

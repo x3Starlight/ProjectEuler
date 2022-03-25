@@ -1,9 +1,9 @@
 package projecteuler;
 
-
 import java.util.List;
 
 public class Problem050 {
+	
 	public static void main(String[] args) {
 		long ans = 0;
 		int length = 0;

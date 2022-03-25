@@ -1,9 +1,8 @@
 package projecteuler;
 
-
 public class Problem045 {
+
 	public static void main(String[] args) {
-		
 		long ans = 0;
 		for (int n = 144;; n++) {
 			long hn = n*(2*n-1);

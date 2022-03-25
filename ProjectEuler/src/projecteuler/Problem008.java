@@ -39,5 +39,4 @@ public class Problem008 {
 		}
 		System.out.println(ans);
 	}
-
 }

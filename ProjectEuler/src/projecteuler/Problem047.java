@@ -1,12 +1,11 @@
 package projecteuler;
 
-
 import java.util.ArrayList;
 import java.util.List;
 
 public class Problem047 {
-	public static void main(String[] args) {
-		
+	
+	public static void main(String[] args) {	
 		List<Long> primes = new ArrayList<>();
 		for (long n = 1;; n++) {
 			if (Functions.isPrime(n)) {

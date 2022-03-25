@@ -1,6 +1,5 @@
 package projecteuler;
 
-
 import java.util.List;
 
 public class Problem077 {

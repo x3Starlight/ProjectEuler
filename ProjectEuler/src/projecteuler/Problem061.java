@@ -1,6 +1,5 @@
 package projecteuler;
 
-
 import java.util.HashSet;
 import java.util.Set;
 
